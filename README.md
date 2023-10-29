@@ -1,6 +1,6 @@
 # Hi there, I'm Niki 👋
 
-I'm a 5th year IT & web development student finishing up at HTL Spengergasse in Vienna. 
+I'm a 5th year IT student finishing up at HTL Spengergasse in Vienna. 
 
 ### A few things about me:
 
