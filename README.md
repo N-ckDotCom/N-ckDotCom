@@ -18,4 +18,4 @@ I'm a 5th year IT student finishing up at HTL Spengergasse in Vienna.
 - My personal website: [https://nckdot.com/][website]
 
 [linkedin]: https://www.linkedin.com/in/nikolaus-list-170604273/
-[website]: https://n-ckdotcom.github.io/
+[website]: https://nckdot.com
