@@ -1,21 +1,22 @@
 # Hi there, I'm Niki 👋
 
-I'm a 5th year IT student finishing up at HTL Spengergasse in Vienna. 
+Recently graduated at [HTL Spengergasse][spengergasse]
 
-### A few things about me:
+### About Me:
 
-- 👨‍💻 I love coding and building things - I'm always working on projects in my free time
-- 📚 Currently learning all about:
-  - Web development
-  - Data science and machine learning
-  - Java and other programming languages
-- 🤝 Open to collaborate on web or software projects
+- 👨‍💻 Passionate about coding with extensive experience in developing innovative projects
+- 📚 Skilled in:
+  - Web Development
+  - Data Science and Machine Learning
+  - Java and various other programming languages
+- 🤝 Open to collaborating on web and software projects
 
-### Find me around the web 🌎:
+### Connect with Me:
 
-- Tinkering with new projects on GitHub 🐙 
-- Connecting with other devs on [LinkedIn][linkedin]
-- My personal website: [https://nckdot.com/][website]
+- Discover my projects on GitHub 🐙 
+- Network with me on [LinkedIn][linkedin]
+- Visit my personal website: [https://nckdot.com/][website]
 
 [linkedin]: https://www.linkedin.com/in/nikolaus-list-170604273/
 [website]: https://nckdot.com
+[spengergasse]: https://github.com/Die-Spengergasse
